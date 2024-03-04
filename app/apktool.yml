@@ -1,0 +1,29 @@
+!!brut.androlib.apk.ApkInfo
+apkFileName: app.apk
+doNotCompress:
+- resources.arsc
+- png
+- assets/www/css/stylemenu.css
+- assets/www/fonts/glyphicons-halflings-regular.eot
+- assets/www/fonts/glyphicons-halflings-regular.woff
+- assets/www/fonts/glyphicons-halflings-regular.woff2
+- assets/www/icon/fechas2.ai
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sdkInfo:
+  minSdkVersion: '14'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.1
+versionInfo:
+  versionCode: '2'
+  versionName: ''

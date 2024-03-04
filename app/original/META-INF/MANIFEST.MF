@@ -1,0 +1,1176 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/icon/babel/abraham.png
+SHA1-Digest: VfeVu4IvGmECyc9Ak9tDUszNWSE=
+
+Name: assets/www/img/herodiana.jpg
+SHA1-Digest: TK+CyH5vWESXRPaG17xhEp+6CQE=
+
+Name: assets/www/img/abegipto/destruccion-sodoma.jpg
+SHA1-Digest: sVb8syu8n9dKgwnSM3NK5US3iD8=
+
+Name: assets/www/icon/asmoneos/judas.png
+SHA1-Digest: DrCgOxoZMh0stW6Nor58EcvRbLI=
+
+Name: assets/www/icon/70/dario3.png
+SHA1-Digest: OLUKjsek69+lXYyySVhixUqO9pM=
+
+Name: assets/www/img/abegipto/4302.jpg
+SHA1-Digest: c+BNGPw44iRCXFOczHTBfshKk20=
+
+Name: assets/www/icon/70/vasti.png
+SHA1-Digest: f9FyU8d8Mpr8GUQiREjsr8OlrP0=
+
+Name: assets/www/icon/herodiana/naval.png
+SHA1-Digest: AxCENZhTGqCX2bzlBLMlVZuRLaY=
+
+Name: assets/www/icon/jueces/23.png
+SHA1-Digest: ha1vZnBJKJLHMXhlzW+updH4TuU=
+
+Name: assets/www/icon/70/nehemias.png
+SHA1-Digest: hRQ7FSfMxoEZxC8lfWcGyKZzybM=
+
+Name: assets/www/icon/70/laboro.png
+SHA1-Digest: SF795lpT14gur2JN1B1thpQBeN8=
+
+Name: assets/www/icon/jueces/52.png
+SHA1-Digest: JfzdZf6TZcqsDJeizm85lQwwLTg=
+
+Name: assets/www/icon/70/nabucodonosor.png
+SHA1-Digest: B78SXVZGP3PoqBZQHIQPP2vryZQ=
+
+Name: assets/www/icon/70/jerjes1.png
+SHA1-Digest: P7XPODm5bckn1WpYzRQTJfeHQDQ=
+
+Name: assets/www/icon/babel/pelegmuere.png
+SHA1-Digest: Fc8dok6AMKp3hHMuYLDSsF5Tm0Y=
+
+Name: assets/www/icon/70/cambises.png
+SHA1-Digest: /Xnv2wfcG96B1b/2H7lcUm6Gn+8=
+
+Name: assets/www/icon/70/jerjes2.png
+SHA1-Digest: plkshNGqVaYvKQwoW1qMCTRVOAY=
+
+Name: assets/www/icon/70/judea.png
+SHA1-Digest: q/8Uqkm7wRkTmYRpQwNY8w+RO64=
+
+Name: assets/www/icon/herodiana/galilea.png
+SHA1-Digest: z2M3l+oXrIbbBwmoH7ubPjb/nYE=
+
+Name: assets/www/icon/70/745.png
+SHA1-Digest: IAr5uoRXDkZGjO42D8xg23tf34Y=
+
+Name: assets/www/img/diluvio/diluvionacimientos.jpg
+SHA1-Digest: C4kbsc6TknH69NtKXLd5dZHOYQM=
+
+Name: assets/www/img/flaviana2.jpg
+SHA1-Digest: SicynmTspmysZB+5HrsLh8SDFqQ=
+
+Name: assets/www/css/styleline.css
+SHA1-Digest: S+aqycHkuzRI9IdKzjUK+j07He8=
+
+Name: assets/www/icon/jueces/1.png
+SHA1-Digest: YsfBpKHrPciYzMUlEvedzJFBkXY=
+
+Name: assets/www/icon/babel/nacormuere.png
+SHA1-Digest: vd//aLglDw7hi3uYa0UvUD6MuiQ=
+
+Name: assets/www/icon/70/aristobulo2.png
+SHA1-Digest: QAx0hnASrXBwsI7Va8otAEh8Oko=
+
+Name: assets/www/icon/genesis/enosmuere.png
+SHA1-Digest: P4B4rTp2N0HiXeLoSe8cBRmzQns=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.woff2
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+
+Name: assets/www/icon/genesis/adanmuere.png
+SHA1-Digest: r6cbtzarjdUG5qqwLxF9Tpn+LBo=
+
+Name: assets/www/icon/jueces/jerusalem.png
+SHA1-Digest: 3fViBSDB+VTJlu776KSg6PspjH4=
+
+Name: assets/www/img/cartelera/jueces2.jpg
+SHA1-Digest: ACirbrICZwCXjwmyU4nxg06hFIk=
+
+Name: assets/www/icon/abegipto/serugmuere.png
+SHA1-Digest: gA4Ldh/zFtWyeorfqb36LSMGJyw=
+
+Name: assets/www/icon/genesis/jaredmuere.png
+SHA1-Digest: GohADdCob9U2q6WX1TB9+xqStf8=
+
+Name: assets/www/img/g8.jpg
+SHA1-Digest: nUtlf2T5v8W4VmLhAy4K522Ly6A=
+
+Name: assets/www/icon/back.png
+SHA1-Digest: uAAGYmjuN0hOiHi5fWLMy2hxHFc=
+
+Name: assets/www/js/npm.js
+SHA1-Digest: 4rdZDW7B/axmsB/fZq4IefU7EmI=
+
+Name: assets/www/icon/exodo/tabernaculo.png
+SHA1-Digest: 1HL+V0c4haupk/SWLnuQxunXVNo=
+
+Name: assets/www/icon/flaviana/domiciano.png
+SHA1-Digest: oNCIZnnw2iO59vL2KbiyMKKk8h0=
+
+Name: assets/www/icon/diluvio/peleg.png
+SHA1-Digest: KvcrqExn2GDpyZpHDNpjYLRToTc=
+
+Name: assets/www/icon/flaviana/juan.png
+SHA1-Digest: 0Ts537vHNylroW/r4LlRZTk2b/E=
+
+Name: assets/www/img/babilonia.jpg
+SHA1-Digest: ufcS5iFfg2QMGIzyIhLR59b8P+8=
+
+Name: assets/www/icon/babel/confusion.png
+SHA1-Digest: KvcrqExn2GDpyZpHDNpjYLRToTc=
+
+Name: assets/www/icon/abegipto/suenomanojo.png
+SHA1-Digest: qPAUlEboeyGh9HiL6JswEB32PAA=
+
+Name: assets/www/img/asmoneos.jpg
+SHA1-Digest: DZHIyS59YILAuA9gvozguo+d3eU=
+
+Name: assets/www/icon/jueces/22.png
+SHA1-Digest: RnQX7EdIalh0N38+ku97tDpEpnA=
+
+Name: assets/www/herodiana.html
+SHA1-Digest: 8g6LON04JtU1YNCqRMX6yMezNME=
+
+Name: assets/www/img/persas.jpg
+SHA1-Digest: i46xLl30VD+z418VXYjFF9Wju2A=
+
+Name: assets/www/icon/3reyes/salomonmuere.png
+SHA1-Digest: T2EOyYaMfhmLN7e1zBUPfre1ryM=
+
+Name: assets/www/icon/jueces/55.png
+SHA1-Digest: 5mHIj9qSH4vckAjKc+wVfEdaNbs=
+
+Name: assets/www/icon/jueces/6.png
+SHA1-Digest: RweUArjUmKfoY2F2Vc8r6jzLotA=
+
+Name: assets/www/icon/abegipto/430.png
+SHA1-Digest: hvbUiqGHdRIgov1FnyZMdYoAfig=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.svg
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+
+Name: assets/www/icon/genesis/lamec.png
+SHA1-Digest: PRp4U4A4FCOnmUqvDbBGC865BdM=
+
+Name: assets/www/img/abegipto/400.jpg
+SHA1-Digest: qG16ywmLTIBm5XSwKoPls2I07io=
+
+Name: assets/www/icon/herodiana/agripa.png
+SHA1-Digest: G1NBNCgbWz31nfcBfOmvQ1GOMj4=
+
+Name: assets/www/img/j2.jpg
+SHA1-Digest: z6sHeTsHGIAIK/EZxGhn4MoizwI=
+
+Name: assets/www/icon/70/partia.png
+SHA1-Digest: 31FL3rERghohy13OTK9yk7Ts6SY=
+
+Name: assets/www/icon/70/herodes.png
+SHA1-Digest: 8Qmm/uMth5pk1yVx2YRTQfe0Ato=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: sFv/0u3p8B8DxR3CWmPn+KvMpZM=
+
+Name: assets/www/icon/flaviana/titomuere.png
+SHA1-Digest: NpRGItfB6+KNlNpukqRj004pP+w=
+
+Name: assets/www/img/cartelera/reyesisrael.jpg
+SHA1-Digest: 7q4VyrkQO8pzYFnghY5czub4OEg=
+
+Name: assets/www/img/genesis/genesis.jpg
+SHA1-Digest: ZYbxS5y+Va2AOtzoYuzJ2r6A1y8=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.ttf
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+
+Name: assets/www/img/genesis/arca.jpg
+SHA1-Digest: 1oC0C3mUqkDfOM2/Ygrwz/RLvSU=
+
+Name: assets/www/icon/70/artajerjesmuere.png
+SHA1-Digest: b8JaPGTaL8xQADnfGaDotTh9B0I=
+
+Name: assets/www/icon/jueces/amasias.png
+SHA1-Digest: yMIFl7X1edzIs2fP2GGhXUVGkFA=
+
+Name: assets/www/icon/70/alejandromuere.png
+SHA1-Digest: yzvVwCysxK64Ghsl1zLoc+1N66A=
+
+Name: assets/www/img/ADN.jpg
+SHA1-Digest: L9QnzlffiJecvfCVoabrUH8YoJg=
+
+Name: assets/www/icon/jueces/templo.png
+SHA1-Digest: aKK/PX2Kqi0aZEy6pIdyOJByEp0=
+
+Name: assets/www/icon/flaviana/vesubio.png
+SHA1-Digest: QZpMLpnqyawJWjBq3jW848pBLAM=
+
+Name: assets/www/icon/asmoneos/aristobulo.png
+SHA1-Digest: YKM+pVx2qAXcEEyKDZ7P42UdHn8=
+
+Name: assets/www/flaviana.html
+SHA1-Digest: FLyKU3QQp3HcOnuuII4AA8+Em10=
+
+Name: assets/www/icon/abegipto/hebermuere.png
+SHA1-Digest: iW64tJmoQRGl+FLPRHDqnoVwgRk=
+
+Name: assets/www/exodo.html
+SHA1-Digest: /qSvvs3bQ2XJjRYl9hNv9G4D8yQ=
+
+Name: assets/www/Timeline/config.xml
+SHA1-Digest: px44b6/CvfVqjsE3c8s8JYyxtDE=
+
+Name: assets/www/img/jueces.jpg
+SHA1-Digest: XeNS5EIj2vzSzbiDbD54VRQuBIQ=
+
+Name: assets/www/icon/70/ciro.png
+SHA1-Digest: OPdwXAwtF4mWMZMcPmz5nsIcAyY=
+
+Name: assets/www/img/genesis/adan.jpg
+SHA1-Digest: mYvAGVfgewVCFyP9gWqOYiMmdLE=
+
+Name: assets/www/icon/70/belsasar.png
+SHA1-Digest: UgG6kVal+R9QXPU+AazXOeBF3Yc=
+
+Name: assets/www/icon/babel/sara.png
+SHA1-Digest: xwOpC2Bs2haKPPFer2nKVJSCxkg=
+
+Name: assets/www/icon/jueces/1mes.png
+SHA1-Digest: MhgDrHDFbZssS/Wnpn7sqJxCkBo=
+
+Name: assets/www/icon/70/WIN 7 SP1 L (F) - Acceso directo.lnk
+SHA1-Digest: 478CoSCpTvMGh2O11YdTnOKbWCw=
+
+Name: assets/www/icon/70/templojerusalen.png
+SHA1-Digest: qO6ViY7P9aYKQ/JD1exobRr4Mfk=
+
+Name: assets/www/icon/genesis/enocmuere.png
+SHA1-Digest: 005u+4BZdJ2HxrTp7W/FssQaQXc=
+
+Name: assets/www/icon/70/artajerjesreina.png
+SHA1-Digest: fdvUFmJmtOKzeL9kWw/ub7U/iTM=
+
+Name: assets/www/img/abegipto/430.jpg
+SHA1-Digest: jB1sSnXgQEhmoNlQ46FOS1DwdT8=
+
+Name: assets/www/icon/babel/serug.png
+SHA1-Digest: QiFf4Gs5xT2UunKV2mOCQW5y7Lc=
+
+Name: assets/www/icon/jueces/jeremias.png
+SHA1-Digest: f0H3Zb0HeAlHZIwGppqXvLs2dAw=
+
+Name: assets/www/cesares.html
+SHA1-Digest: BMDM6i6MGsZDdaLSWPiz8DvQoWk=
+
+Name: assets/www/css/stylebutton.css
+SHA1-Digest: vVIlB80Br9xHW5sMk3lRThuZvlY=
+
+Name: assets/www/persas.html
+SHA1-Digest: 60JKCS+KBeGxkNlevWrOOBarZCU=
+
+Name: assets/www/spec/index.js
+SHA1-Digest: J4GKWWL87ZmFEo/y6AwV16rZhQY=
+
+Name: assets/www/icon/jueces/41.png
+SHA1-Digest: kCb+57JFQsTb07V4q++RsYoNa3E=
+
+Name: assets/www/icon/asmoneos/matiaslibera.png
+SHA1-Digest: pw+VbfywLRSIxOXbIlpNKkXmv4E=
+
+Name: assets/www/icon/70/artajerjes3.png
+SHA1-Digest: CVDoliFD/Wi1YQGEXrnMgYj84nk=
+
+Name: assets/www/icon.png
+SHA1-Digest: d5NDg/c80IKOl19hB2E4DxNAJL4=
+
+Name: assets/www/icon/3reyes/terminatemplo.png
+SHA1-Digest: s8Vzi2htX7EU0ymZ8dIZFbazM0E=
+
+Name: assets/www/icon/genesis/noe.png
+SHA1-Digest: VBmbPvfBxdEXg2Fl66PIK6peEn8=
+
+Name: assets/www/icon/jueces/joas.png
+SHA1-Digest: uCE6fZW0N07Chmmg0p4dj/ctpUM=
+
+Name: assets/www/icon/jueces/josafat.png
+SHA1-Digest: s/4N45iXAuqULjPq+a/0TUAFfOk=
+
+Name: assets/www/icon/70/simon.png
+SHA1-Digest: AhYmGktKM9YwBDnyrDs8J/oHFqY=
+
+Name: assets/www/icon/70/cautiverio3000.png
+SHA1-Digest: ILxOkeZ6ugXTps++vf/ZfoOLZdo=
+
+Name: assets/www/icon/jueces/sedequias.png
+SHA1-Digest: qTgiiE3HLMZE2TzsL8sS8tAomzU=
+
+Name: assets/www/diluvio.html
+SHA1-Digest: exJa3vHr666hktT8/bLDoMiSuHc=
+
+Name: assets/www/icon/herodiana/agripa2.png
+SHA1-Digest: QZpMLpnqyawJWjBq3jW848pBLAM=
+
+Name: assets/www/icon/70/orden.png
+SHA1-Digest: PCRkoBYlhHWPPFzq3p6YwwUrKWg=
+
+Name: assets/www/icon/cesares/neronmuere.png
+SHA1-Digest: cC1L5LcUnamNek/bEKrZQE/xHSw=
+
+Name: assets/www/icon/abegipto/isaac.png
+SHA1-Digest: DT+/ZJkeXMpzOd1HUckrDFZzM8g=
+
+Name: assets/www/icon/jueces/roam.png
+SHA1-Digest: K0r0A7UxHdIv5xXVP5PSagUl4HI=
+
+Name: assets/www/img/j3.jpg
+SHA1-Digest: dxe3144lF1CnpIyFHfmHRpAbBOY=
+
+Name: assets/www/img/diluvio/diluvio.jpg
+SHA1-Digest: eRCkGpFfgM0er5AZ2OGJ0yIGxfU=
+
+Name: assets/www/icon/70/marathon.png
+SHA1-Digest: muGMAxofxQWt2Edthey0T862Jow=
+
+Name: assets/www/icon/70/pompeyo.png
+SHA1-Digest: i9QIOhOv+X6M/A8d9PGS/ZXR4Aw=
+
+Name: assets/www/babilonios.html
+SHA1-Digest: jzSmw75T+HodOpZT9k7lX+TcRYs=
+
+Name: assets/www/icon/70/cleopatramuere.png
+SHA1-Digest: ZeeXGOoJI3x5L23b2Xepd/sqOr0=
+
+Name: assets/www/icon/jueces/ocozias.png
+SHA1-Digest: wgxZdGvWuxAtLNUmmR2Girxn0f0=
+
+Name: assets/www/icon/cesares/jesusmuere.png
+SHA1-Digest: wbFdDc5qhm/DZv3K3CLy8ZU/LBY=
+
+Name: assets/www/icon/asmoneos/herodeselgrande.png
+SHA1-Digest: Epbcs7ZVOKAWQ3hHP916c+ccLY8=
+
+Name: assets/www/img/cartelera/430.jpg
+SHA1-Digest: GbQNJaLhsVSAtNgeMKCrSZUGAlo=
+
+Name: assets/www/icon/abegipto/josevendido.png
+SHA1-Digest: qPAUlEboeyGh9HiL6JswEB32PAA=
+
+Name: assets/www/icon/jueces/acaz.png
+SHA1-Digest: 041CtJDVDuDXgS5f/Miht24PuNg=
+
+Name: assets/www/img/j1.jpg
+SHA1-Digest: d/o5gY3HLXamLhwQ8y0031LGj74=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE
+SHA1-Digest: RytFXTsJ+13ad9mFrElp/Si5Hws=
+
+Name: assets/www/icon/3reyes/davidmuere.png
+SHA1-Digest: bTGxycMf0CRr/mTFnsg1KOiqnYc=
+
+Name: assets/www/3reyes.html
+SHA1-Digest: CRtU56bXp8Vi1aXya6KV2TAJ9ok=
+
+Name: assets/www/icon/genesis/enos.png
+SHA1-Digest: wMW5cb+6TLzIPUOy84IuU7IQNyw=
+
+Name: assets/www/icon/70/joacaz.png
+SHA1-Digest: GgnhkDTpIwuR2Qy755tF3M/2HpE=
+
+Name: assets/www/img/g9.jpg
+SHA1-Digest: c08wb3voPNlKlef6VELIFhkcJxc=
+
+Name: assets/www/icon/70/ciromuere.png
+SHA1-Digest: Te35AHu+bpAr2jOGXDon5P9Srnk=
+
+Name: assets/www/css/index.css
+SHA1-Digest: Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+
+Name: assets/www/icon/jueces/manases.png
+SHA1-Digest: EefWEvmG1wK/Lypv7UOkruFcLJA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: AwejFV8/UkxZAuLlgHyh+/GMPy8=
+
+Name: assets/www/img/babel/babel1.jpg
+SHA1-Digest: V7dMWfM+qr9KgXecAntK2W6N3Zw=
+
+Name: assets/www/icon/asmoneos/juliomuere.png
+SHA1-Digest: u13z6IUT3zQLhjK47hxd+kAc8jw=
+
+Name: assets/www/icon/abegipto/jose.png
+SHA1-Digest: DPhb58grL5kjPhzx/sQ8nNdqiww=
+
+Name: assets/www/icon/70/desterrado.png
+SHA1-Digest: YyKPJ9EvzUYm1haiSyLbf+8MCQc=
+
+Name: assets/www/icon/abegipto/taremuere.png
+SHA1-Digest: Ga0sH8J5GKRunQw/C0Ip5Lk/9qk=
+
+Name: assets/www/abegipto.html
+SHA1-Digest: 14MlD5dRHf4fv52z+z2GbpuWLcE=
+
+Name: assets/www/icon/cesares/julio.png
+SHA1-Digest: WYlzXaouTbdYkL8prUWwaWEt7hg=
+
+Name: assets/www/icon/70/herodeselgrande.png
+SHA1-Digest: Epbcs7ZVOKAWQ3hHP916c+ccLY8=
+
+Name: assets/www/icon/flaviana/herodes.png
+SHA1-Digest: zmfCfaf3zJrppDiLtdssdb+zx04=
+
+Name: assets/www/icon/abegipto/semmuere.png
+SHA1-Digest: z+3uMKyiNIY0UbyTXzi1mehVc+g=
+
+Name: assets/www/icon/abegipto/jacobegipto.png
+SHA1-Digest: 7g+uRgKgu/xXpwlbMVNnT4RfO20=
+
+Name: classes.dex
+SHA1-Digest: z5BO3SZBzHzjRIRpw3a72hgPHdo=
+
+Name: assets/www/icon/abegipto/saramuere.png
+SHA1-Digest: eVIei9D/GJfnHX8pF+Jd5e2L720=
+
+Name: assets/www/icon/jueces/10.png
+SHA1-Digest: G+nFN/Vsm+tRmVoK/6b8gDRfqn0=
+
+Name: assets/www/icon/jueces/josias.png
+SHA1-Digest: seBQbtSRh/9fE99G9hLIiDH7g1s=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine.css
+SHA1-Digest: DjIgU9kCSPAtc8h6KJIq1kR9aaU=
+
+Name: assets/www/icon/3reyes/salomontemplo.png
+SHA1-Digest: LoVPwkPa9BDGpMs/SpzYZRB1qts=
+
+Name: assets/www/css/bootstrap.css
+SHA1-Digest: aYfjva16Ol0UPd8kU+KXgtvZnCk=
+
+Name: assets/www/icon/asmoneos/antiocoinvade.png
+SHA1-Digest: Zluiuk2WbXsRF2NK0+/CktRt5ic=
+
+Name: assets/www/icon/genesis/cainanmuere.png
+SHA1-Digest: gEFYeXU73EvzXLOtgJqRW3fkUVQ=
+
+Name: assets/www/icon/jueces/16.png
+SHA1-Digest: eITUeynBPPpd04stMxnZzUEV++Q=
+
+Name: assets/www/icon/cesares/caligula.png
+SHA1-Digest: uZ6fW+xHAUcXvFzYf8xrB5fGzzo=
+
+Name: assets/www/icon/jueces/amon.png
+SHA1-Digest: Cs6jHNHUit//veXuDPaRQF9Qqck=
+
+Name: assets/www/icon/cesares/jacobomuere.png
+SHA1-Digest: y/+P9/7qRfTXhJ3HGhLIjTCx/to=
+
+Name: assets/www/js/main.js
+SHA1-Digest: 3ffoxm+zV9N3T3+xgXnbJ4W3p0c=
+
+Name: assets/www/icon/babel/reu.png
+SHA1-Digest: dgVX8orD9MEYEMxjgLwY0ikbuEw=
+
+Name: assets/www/icon/70/antioco.png
+SHA1-Digest: WtgcvguFlEaoX7r+KxBIjrYpJ9s=
+
+Name: assets/www/icon/herodiana/herodes.png
+SHA1-Digest: IGI8K+sjwrdmm7dImKhOdjf/s6I=
+
+Name: assets/www/icon/jueces/25.png
+SHA1-Digest: jHF0TcPW3QyUosgCJyxZoESE15U=
+
+Name: assets/www/img/3reyes.jpg
+SHA1-Digest: u6BBhoS9xC+AYvmXLd+FIu1XsiE=
+
+Name: assets/www/icon/abegipto/400.png
+SHA1-Digest: oy87/ox7FZvqlET8mXkixOrc97k=
+
+Name: assets/www/css/stylemenu.css
+SHA1-Digest: 7ZCho4WFF4ZiQ/jRPvbxEi9aeQQ=
+
+Name: assets/www/icon/jueces/sombra.png
+SHA1-Digest: S4oP23wxiAaLwNId3M6YzuAVGm0=
+
+Name: assets/www/icon/abegipto/josereina.png
+SHA1-Digest: C/nYb/BuWYIT7WIKE1h5w9cKhoY=
+
+Name: assets/www/icon/cesares/tiberio.png
+SHA1-Digest: z2M3l+oXrIbbBwmoH7ubPjb/nYE=
+
+Name: assets/www/icon/asmoneos/simonmuere.png
+SHA1-Digest: Tjlv+dMECgsoCakLuEFcKJGMcEo=
+
+Name: assets/www/img/genesis/noe comienza el arca.jpg
+SHA1-Digest: Aw1g3s7fZtNbsGeYjKQe9A9J5hI=
+
+Name: assets/www/icon/herodiana/cesarea.png
+SHA1-Digest: nE7SJgEAgB08bVRBB9v3p/Ev5iM=
+
+Name: assets/www/icon/70/evil.png
+SHA1-Digest: BrwGuw7UnwoAtBxcu9eamklzjW4=
+
+Name: assets/www/js/bootstrap.js
+SHA1-Digest: u/VeIPHrtjaFInmfKds5gwoI75M=
+
+Name: assets/www/icon/diluvio/diluvioini.png
+SHA1-Digest: sUlqUselO0qqBaOMpBajMcOMO78=
+
+Name: assets/www/icon/70/reyalejandro.png
+SHA1-Digest: zzfRh0iSt0PRvMm6ubWfjES/+8Q=
+
+Name: assets/www/index.html
+SHA1-Digest: 3nFUmjVXuhCxrAG4JhlhL7A6hHQ=
+
+Name: assets/www/icon/herodiana/redifica.png
+SHA1-Digest: aVhXcuvBKGQxxreoD2Cf5gaUkE0=
+
+Name: assets/www/icon/genesis/jared.png
+SHA1-Digest: QFYXbvTI7Fc2CiVlIinJcoW5YPg=
+
+Name: assets/www/icon/jueces/80.png
+SHA1-Digest: sjr54LmYsb0qEoAdcSp+wvfdry0=
+
+Name: assets/www/img/cartelera/jueces.jpg
+SHA1-Digest: LhmymvAUkVVW+ox7VbQFdC/xpnI=
+
+Name: assets/www/icon/abegipto/abentra.png
+SHA1-Digest: hvbUiqGHdRIgov1FnyZMdYoAfig=
+
+Name: assets/www/img/cartelera/70years.jpg
+SHA1-Digest: Cfp6R55JJu8nCevQQGB7/O8xR2A=
+
+Name: assets/www/icon/70/termopilas.png
+SHA1-Digest: RXYo3KUnYaAXIa4Acmq2Jkt9TWo=
+
+Name: assets/www/icon/abegipto/moisespueblo.png
+SHA1-Digest: TYO3Z0+yO5KEn660NOHxUsYDefQ=
+
+Name: assets/www/img/g5.jpg
+SHA1-Digest: UZp6MJS0A/AzPLcAFz2ptZhMBqY=
+
+Name: assets/www/icon/genesis/matusalen.png
+SHA1-Digest: JPkjuOUNr5waCALppfACdXjZCx0=
+
+Name: assets/www/img/cartelera/babel.jpg
+SHA1-Digest: fBePuDD3wKHCN+ylRH/UQS+x6Dk=
+
+Name: assets/www/icon/70/idumeo.png
+SHA1-Digest: AfZbjoXNwb/Vsgg4r5/XHodVbWo=
+
+Name: assets/www/icon/asmoneos/alejandro.png
+SHA1-Digest: TN5SfNCdduaTc6i6zXg0zMpuJmE=
+
+Name: assets/www/icon/70/juliomuere.png
+SHA1-Digest: P7zW5jb2s1XIeGoRusT6eEsUENU=
+
+Name: assets/www/css/bootstrap.min.css
+SHA1-Digest: CN+alnUoUvLL0xDDD6zZNONIwsU=
+
+Name: assets/www/icon/70/dario.png
+SHA1-Digest: 4uLuSnDfa/qA8I2Vb/UFlPJCyB8=
+
+Name: assets/www/img/cartelera/reyesjuda.jpg
+SHA1-Digest: EuP2Jsa81O0LkoDhMXeouvTHy/Q=
+
+Name: assets/www/jueces.html
+SHA1-Digest: Qo9cBi92o8dkBLP6AnxmeXAtb38=
+
+Name: assets/www/img/g4.jpg
+SHA1-Digest: 310R0pCoWaix7tKRB7ndSnSUaog=
+
+Name: assets/www/icon/jueces/uzias.png
+SHA1-Digest: UfUB32KGLJbYTpFMitQPSSj/aN8=
+
+Name: assets/www/img/g2.jpg
+SHA1-Digest: oPfu7lYTOE0tJoLMPecnwFebUDE=
+
+Name: assets/www/icon/asmoneos/simon.png
+SHA1-Digest: yBevhQ0TRZxfTWsHI73PwqMrc0g=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js
+SHA1-Digest: HQvXPy78BuOZPFGkxsNvRiBM4YA=
+
+Name: assets/www/icon/jueces/eliasoro.png
+SHA1-Digest: u09XHKagw1g1ixo85IAxKC1YUps=
+
+Name: assets/www/babel.html
+SHA1-Digest: d27kebo7ur1U5YT4rubEuU7gQ8I=
+
+Name: res/xml/config.xml
+SHA1-Digest: +3GazQPKGO1FQPP58Lc4omNs+2Y=
+
+Name: assets/www/icon/70/chivo.png
+SHA1-Digest: KT4/K1QT8gF5lg7jlftgwa8JJXc=
+
+Name: assets/www/icon/jueces/28.png
+SHA1-Digest: KSCkZPS4RZfN0v4igUMQ2NNz1Tg=
+
+Name: assets/www/icon/jueces/roboam.png
+SHA1-Digest: T2EOyYaMfhmLN7e1zBUPfre1ryM=
+
+Name: assets/www/icon/jueces/29.png
+SHA1-Digest: hI+pgnnVqQ9ZMZdvt/DVE4W27Co=
+
+Name: assets/www/css/style.css
+SHA1-Digest: ZtKy9DKlho/UBELAxsFN3lu4XEA=
+
+Name: assets/www/icon/cesares/general.png
+SHA1-Digest: b9zWJ3n0VBkL+WFVts/l01tkgm4=
+
+Name: assets/www/icon/abegipto/isaacmuere.png
+SHA1-Digest: lCVBSCwFHAfoG/IjH+WAwRLBNjk=
+
+Name: assets/www/img/reyesjuda.jpg
+SHA1-Digest: OAww3L6yCowZIirzBJWosBlddmw=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: sFv/0u3p8B8DxR3CWmPn+KvMpZM=
+
+Name: assets/www/icon/70/purim.png
+SHA1-Digest: R6z6Dl/FyJfBZZc6OYQKsxJL0sc=
+
+Name: assets/www/img/cartelera/persas.jpg
+SHA1-Digest: DfF+ZdxmZbGd8PL152ttfONg4Gs=
+
+Name: assets/www/icon/herodiana/termina.png
+SHA1-Digest: LnW6yEoSh0whOJIz5j4ZZZstLuU=
+
+Name: assets/www/img/cartelera/cesares.jpg
+SHA1-Digest: DUMnbg4Wuexc6+YdaSQW8GC1aM4=
+
+Name: assets/www/icon/asmoneos/hircano2.png
+SHA1-Digest: 31FL3rERghohy13OTK9yk7Ts6SY=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/icon/herodiana/filipo.png
+SHA1-Digest: H4lYKS1jpny+RRkaKh/0s5BHUz0=
+
+Name: assets/www/icon/juecesisrael/josue.png
+SHA1-Digest: FfET3spJls6ZC3qI6/t3YdxV9QU=
+
+Name: assets/www/img/cartelera/babilonios.jpg
+SHA1-Digest: AtbFapl8+rdPp2F87XVt4J+vrFA=
+
+Name: assets/www/icon/herodiana/antipas.png
+SHA1-Digest: wbFdDc5qhm/DZv3K3CLy8ZU/LBY=
+
+Name: assets/www/icon/abegipto/reumuere.png
+SHA1-Digest: llzmeeGRV49n77uHyISc2d1v16E=
+
+Name: assets/www/icon/cesares/pilato.png
+SHA1-Digest: z2M3l+oXrIbbBwmoH7ubPjb/nYE=
+
+Name: assets/www/icon/70/neriglisar.png
+SHA1-Digest: uTC/SjOCxT6IbomUn/Mjimx5j6Y=
+
+Name: assets/www/icon/herodiana/nacimiento.png
+SHA1-Digest: UkuTEwQQNpSb4phF9OWnK2jCOlM=
+
+Name: assets/www/icon/cesares/marcomuere.png
+SHA1-Digest: zW5aosMDiGzoJ3Yop13iOmJ25PM=
+
+Name: assets/www/icon/abegipto/suenofaraon.png
+SHA1-Digest: +Y3MgeitN7Ow4u1beEKRpDFGHuM=
+
+Name: assets/www/icon/abegipto/aaron.png
+SHA1-Digest: l/gFkomBza0Zuz1X0JhaIEOyxxs=
+
+Name: assets/www/img/cartelera/exodo.jpg
+SHA1-Digest: B4yA5xMaR/sXOuindU9qVOmr3U4=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.woff
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+
+Name: assets/www/icon/abegipto/sodomaygomorra.png
+SHA1-Digest: 2YdDbspzCvfK2rw26OVD7PEMRV8=
+
+Name: assets/www/icon/flaviana/galba.png
+SHA1-Digest: 5YdlBWu16FzhhzCZJ0nTAe8d90M=
+
+Name: assets/www/icon/genesis/cainan.png
+SHA1-Digest: osS9SnNCSqksBPMm7b58XCSn3w4=
+
+Name: assets/www/css/bootstrap-theme.css
+SHA1-Digest: 7PIkXdOeo7F8y0vqQs2kY1Y3YHg=
+
+Name: assets/www/icon/jueces/24.png
+SHA1-Digest: QwN0OkpaYbRnyrkFzezBclGB/x0=
+
+Name: assets/www/icon/70/cleopatra.png
+SHA1-Digest: krl+U7Rwc4OyiCvwYGlkELCjHwA=
+
+Name: assets/www/icon/juecesisrael/josuejuzgo.png
+SHA1-Digest: JlVgmfiiRqAPYuhtkalH8Oou110=
+
+Name: assets/www/icon/3reyes/saul.png
+SHA1-Digest: vRz56FaztNenC0ZBYbSwUjC098g=
+
+Name: assets/www/icon/jueces/20.png
+SHA1-Digest: GsOh39RHmNAkFQTpkzwelzNRu+s=
+
+Name: assets/www/icon/3reyes/ungido.png
+SHA1-Digest: 4iVnDGICT8Pje7hYEK51CAp0FlM=
+
+Name: assets/www/icon/jueces/9.png
+SHA1-Digest: 4wR5lyU3ZVpcaF7TuOMxpTQiPKw=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: sFv/0u3p8B8DxR3CWmPn+KvMpZM=
+
+Name: assets/www/icon/genesis/matumuere.png
+SHA1-Digest: sUlqUselO0qqBaOMpBajMcOMO78=
+
+Name: assets/www/icon/70/cautiverio.png
+SHA1-Digest: TXJmEqKEoeC1L6zhd7TOjV8taQU=
+
+Name: assets/www/icon/abegipto/arfaxadmuere.png
+SHA1-Digest: VEPbh80AbtjHtjorKfTPfKqDh/Q=
+
+Name: assets/www/img/g3.jpg
+SHA1-Digest: On6CJHTgGY8O/tUtcSmQ4zve1RU=
+
+Name: assets/www/img/g7.jpg
+SHA1-Digest: jqSvrGJuCLOaQt5p2E6CbSocY/4=
+
+Name: assets/www/icon/flaviana/josefo.png
+SHA1-Digest: cPDTmzp7SXgbIFPjUuy03XAjOUI=
+
+Name: assets/www/icon/70/cristo.png
+SHA1-Digest: 5ZNgM6BZIw177yDddE7T2uRTQVI=
+
+Name: assets/www/icon/70/daniel.png
+SHA1-Digest: /Xnv2wfcG96B1b/2H7lcUm6Gn+8=
+
+Name: assets/www/graficas.html
+SHA1-Digest: mNqU1tl49UfIeqwrHmWA+tJX2D8=
+
+Name: assets/www/asmoneos.html
+SHA1-Digest: yBupxdlQ7o0k5+fjm7s+zKyHzYY=
+
+Name: assets/www/img/babilonios.jpg
+SHA1-Digest: yE5rKjPgf1npi1NiwbUG4XE9/dk=
+
+Name: assets/www/icon/cesares/tiberiomuere.png
+SHA1-Digest: KCqXyHuly8iE/2c9pswdcHPhgoU=
+
+Name: assets/www/img/cartelera/genesis.jpg
+SHA1-Digest: HLriUa81/CFUXFDc91crhOMU+WM=
+
+Name: assets/www/icon/abegipto/salamuere.png
+SHA1-Digest: yQYfCGb16EiJ3yrHKDy4UtzBSMo=
+
+Name: assets/www/img/genesis/creacion.jpg
+SHA1-Digest: iuyzLmL2MwX50kIb6J8KKWljO8k=
+
+Name: assets/www/img/cartelera/flaviana.jpg
+SHA1-Digest: Fexv2DlXVx74agLZA/z7mwbpzzU=
+
+Name: assets/www/css/reset.css
+SHA1-Digest: lYt7Fu3ivu5tcHg80zyU60UfLDA=
+
+Name: assets/www/icon/jueces/3.png
+SHA1-Digest: yqBTaUg9cRdodbFF5tWXtp1BEIo=
+
+Name: assets/www/icon/70/destruccion.png
+SHA1-Digest: obv5vpoac7PVn8sP6G4jzhWIJXg=
+
+Name: assets/www/icon/jueces/8.png
+SHA1-Digest: RFy7xhHVoGT5vSmoVsaut12a+pI=
+
+Name: assets/www/css/bootstrap-theme.min.css
+SHA1-Digest: TJNtoCay+y5rY9PU3bw9m+tljRc=
+
+Name: assets/www/css/stylebanner.css
+SHA1-Digest: OS2+FQiPNW8jSIoaYpsACHU9QAA=
+
+Name: assets/www/icon/genesis/mahamuere.png
+SHA1-Digest: REdd9JAXeoRNneYsAuoUQ27dZy0=
+
+Name: assets/www/icon/jueces/joram.png
+SHA1-Digest: IwwHKVTaqinKww6FN75e9kjsCgA=
+
+Name: assets/www/icon/abegipto/suenocopero.png
+SHA1-Digest: W0HbNAyWwtrWxEVihSK4czGcvII=
+
+Name: assets/www/icon/genesis/arca.png
+SHA1-Digest: m+0xa/j83iGuTE6WCx2Jhmb3Dyo=
+
+Name: assets/www/img/genesis/cainyabel.jpg
+SHA1-Digest: 5bEGiPUcXHYvjI0ecFSaHvUepZ8=
+
+Name: assets/www/reyesdejuda.html
+SHA1-Digest: jnRtyB8xgnR/LN6HoQEWpbD0iCI=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: sFv/0u3p8B8DxR3CWmPn+KvMpZM=
+
+Name: assets/www/icon/3reyes/davidjerusalem.png
+SHA1-Digest: 7NjYJF1hiiIMLR5u74cC8hEQB5M=
+
+Name: assets/www/icon/jueces/meguido.png
+SHA1-Digest: ZVjGAUdq3yLqXOq7bp8GMDy/yCc=
+
+Name: assets/www/icon/genesis/mahalalel.png
+SHA1-Digest: ECc3DPv7P6uuakxGsYaZqP/eLkw=
+
+Name: assets/www/icon/abegipto/moises.png
+SHA1-Digest: CAwUBdiCY7HYw3iM/RRanMj/+z4=
+
+Name: assets/www/icon/herodiana/antipater.png
+SHA1-Digest: r5F69UHWxqRahHhVP7qm9GAmsg0=
+
+Name: assets/www/spec/lib/jasmine-1.2.0/jasmine.js
+SHA1-Digest: UbuCXRtZstykBBa58lepG51icZw=
+
+Name: assets/www/img/cartelera/herodiana.jpg
+SHA1-Digest: 8nblKoTLuBqGPysGDSi3cQhv8L0=
+
+Name: assets/www/icon/abegipto/josemuere.png
+SHA1-Digest: yCWpJLk+2dqnhfHjwQnGZGfULRA=
+
+Name: assets/www/icon/jueces/sisac.png
+SHA1-Digest: iR/fBlxuS3ziUZihk0g9PLZVxVM=
+
+Name: assets/www/icon/genesis/enoc.png
+SHA1-Digest: COrKNSY3L216WClxs2gWSD1iz7o=
+
+Name: assets/www/icon/jueces/ezequiaz.png
+SHA1-Digest: AE+LqNCRWi1khzSKdBo3si5PpqY=
+
+Name: assets/www/icon/jueces/2.png
+SHA1-Digest: opEyK2GCqlTb4n0uZr1XxoalzAw=
+
+Name: assets/www/icon/asmoneos/aristobulo2.png
+SHA1-Digest: QAx0hnASrXBwsI7Va8otAEh8Oko=
+
+Name: assets/www/fonts/glyphicons-halflings-regular.eot
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+
+Name: assets/www/icon/abegipto/ismaelmuere.png
+SHA1-Digest: bVDYaJPBDxY9eRITTMTdzFXyuu8=
+
+Name: assets/www/griegos.html
+SHA1-Digest: oRc0E+ox7KmY/GAlhMEmx26N1bo=
+
+Name: assets/www/icon/flaviana/vitelio.png
+SHA1-Digest: UHkfFPLo4e7LNA/+cbeF4x53PTg=
+
+Name: assets/www/icon/jueces/40.png
+SHA1-Digest: 8nOHurSRzFKAMusw5Ydf9tDlpJU=
+
+Name: assets/www/img/cesare.jpg
+SHA1-Digest: OYWSThHaLjdh2bjHQcg4wqZU1To=
+
+Name: assets/www/70years.html
+SHA1-Digest: usVjTwQxlpg5e8UKQPrF4P/i2QE=
+
+Name: assets/www/icon/flaviana/masada.png
+SHA1-Digest: PzURyHsuyL0Qr+TvWGhU8FUhhMA=
+
+Name: assets/www/icon/70/antigono.png
+SHA1-Digest: ZeeXGOoJI3x5L23b2Xepd/sqOr0=
+
+Name: assets/www/icon/3reyes/salomon.png
+SHA1-Digest: xzj15FM28wS9y7SV7/d3oaxLmyQ=
+
+Name: assets/www/icon/babel/noemuere.png
+SHA1-Digest: DyN5Efskt4BEjzT+NwbUDES+di0=
+
+Name: assets/www/icon/jueces/jerusalendestruida.png
+SHA1-Digest: KLYJij/3PUix7/1QPx/cHiNFOtc=
+
+Name: assets/www/icon/diluvio/heber.png
+SHA1-Digest: Zuw6mNFHbc9bMJp0NnM+2EeMhig=
+
+Name: assets/www/icon/asmoneos/pompeyo.png
+SHA1-Digest: Y7b3qo696fXtmyBM72d/tNnmzPU=
+
+Name: assets/www/img/flaviana1.jpg
+SHA1-Digest: E6tfhiAgnyGKEAfm3pLAnq0Sj+0=
+
+Name: assets/www/icon/jueces/18.png
+SHA1-Digest: HPipZDmbYqFLukzMAeWZjm5WRlY=
+
+Name: assets/www/icon/abegipto/circuncision.png
+SHA1-Digest: 2YdDbspzCvfK2rw26OVD7PEMRV8=
+
+Name: assets/www/icon/asmoneos/hircano.png
+SHA1-Digest: iHcYI5lQZ6pfudPa0Ebnp0b4brM=
+
+Name: assets/www/icon/babel/nacor.png
+SHA1-Digest: bGiKJyUTGQ50h7cgesC6QsiGudM=
+
+Name: assets/www/icon/70/judas.png
+SHA1-Digest: ZhNocRkejTdGPRlLyxSExJYT5s0=
+
+Name: assets/www/icon/exodo/exodo.png
+SHA1-Digest: TYO3Z0+yO5KEn660NOHxUsYDefQ=
+
+Name: assets/www/icon/asmoneos/antioco.png
+SHA1-Digest: 6uNMG6OaLBT9uBmhHRU6wh1tWn8=
+
+Name: assets/www/img/g1.jpg
+SHA1-Digest: rdmPxa8j+vT3I0AcTmF9YbwgUB8=
+
+Name: assets/www/icon/genesis/sem.png
+SHA1-Digest: N+w0M5/e0aoMzfcnG8MUHe3g4cc=
+
+Name: assets/www/icon/abegipto/moiseshuye.png
+SHA1-Digest: NahbVj6uSJephqb2XZMkZB0Ugqw=
+
+Name: assets/www/icon/70/hircano2.png
+SHA1-Digest: iHcYI5lQZ6pfudPa0Ebnp0b4brM=
+
+Name: assets/www/css/bootstrap.css.map
+SHA1-Digest: FlBlE8Xz2VmC5z+2ggzzxMWNaJc=
+
+Name: assets/www/icon/jueces/caida.png
+SHA1-Digest: 2kBCaOI3E5jk05T6i5Og4pbeb6s=
+
+Name: assets/www/img/cartelera/3reyes.jpg
+SHA1-Digest: yaDvozRdr4qp0e3FOKlNherM6a4=
+
+Name: assets/www/genesis.html
+SHA1-Digest: b+zHVIljcoq5+/WmAyZCDh1KDaM=
+
+Name: assets/www/icon/abegipto/jacob.png
+SHA1-Digest: 0+3oX+OGPYILKMtmx4UgWasQyto=
+
+Name: assets/www/img/cartelera/cronologias.jpg
+SHA1-Digest: aajnzAQHijVDPzzKtXEL72gWFcs=
+
+Name: assets/www/img/diluvio/diluvio2.jpg
+SHA1-Digest: S7fxu01hk5EdnQgdFAsCOllajJk=
+
+Name: assets/www/icon/3reyes/saulmuere.png
+SHA1-Digest: uVvB8XiTq+o6JTknzt9GD5Q561o=
+
+Name: assets/www/css/bootstrap-theme.css.map
+SHA1-Digest: q8LjoRY95SN4xxu5LQB8Iquwo5M=
+
+Name: assets/www/icon/babel/babel.png
+SHA1-Digest: KvcrqExn2GDpyZpHDNpjYLRToTc=
+
+Name: resources.arsc
+SHA1-Digest: wollDlgDubN/CDpqja/fMk3dg5E=
+
+Name: assets/www/icon/jueces/6meses.png
+SHA1-Digest: jCNrVfQPoORL6tCF5oHCmY6HTqI=
+
+Name: assets/www/icon/jueces/ezequiel.png
+SHA1-Digest: Ylr+Q/exukopL6+YS74i9S+gjeo=
+
+Name: assets/www/icon/abegipto/abrahammuere.png
+SHA1-Digest: cTDN9jqlvr4hDMhYr6u6eXIabXI=
+
+Name: assets/www/icon/abegipto/isaac-sacrificio.png
+SHA1-Digest: jqNF92R3rVeA2DNr7qjJebyD8RY=
+
+Name: assets/www/icon/asmoneos/templo.png
+SHA1-Digest: jB2tR/i6e+Oiu9dFwyMY69uBwc8=
+
+Name: assets/www/icon/70/joaquin.png
+SHA1-Digest: Z4p5WyRjLg2vbOLUJ0VEofHSXeg=
+
+Name: assets/www/img/abegipto/abegipto.jpg
+SHA1-Digest: QBK2tG2QzdSrudhE5ycPLeoqaoY=
+
+Name: assets/www/icon/jueces/17.png
+SHA1-Digest: /T2zfilCCV79KyiI9ErhKY2GfGc=
+
+Name: assets/www/icon/jueces/roma.png
+SHA1-Digest: 3MW6VbuPaXsP+0H3HYgcj7MLi9Q=
+
+Name: assets/www/icon/abegipto/ismael.png
+SHA1-Digest: Hcfiq+mupB10pAo8aQmq5OvBhxA=
+
+Name: assets/www/icon/genesis/ennos.png
+SHA1-Digest: wMW5cb+6TLzIPUOy84IuU7IQNyw=
+
+Name: assets/www/icon/asmoneos/herodes.png
+SHA1-Digest: AfZbjoXNwb/Vsgg4r5/XHodVbWo=
+
+Name: res/drawable/icon.png
+SHA1-Digest: sFv/0u3p8B8DxR3CWmPn+KvMpZM=
+
+Name: assets/www/icon/70/reconstruccion.png
+SHA1-Digest: VmIBtgeqEnoOamCGsYhpcwiKoBY=
+
+Name: assets/www/icon/cesares/octaviomuere.png
+SHA1-Digest: CX/1AT8RYlpCUISekogjBPGWVfs=
+
+Name: assets/www/icon/genesis/setmuere.png
+SHA1-Digest: 0Ig1uzFIFpoqoPFHajiN/9UVkb0=
+
+Name: assets/www/icon/70/artajerjes4.png
+SHA1-Digest: lzuk4VLzM30gl1VgFx2lBXapx4s=
+
+Name: assets/www/icon/flaviana/domi.png
+SHA1-Digest: kvxse+2Uhu10MPx+3Yeof44vBWA=
+
+Name: assets/www/icon/cesares/juliomuere.png
+SHA1-Digest: 7JI2fRFyDFwjRLvrSMhTIAUHqlQ=
+
+Name: assets/www/icon/fechas2.ai
+SHA1-Digest: U49G5kxy8rcaKZe4FZ1p9qJuh+w=
+
+Name: assets/www/icon/70/templo.png
+SHA1-Digest: F5eDUMTkgm9CIVGlj0rrIWeGmME=
+
+Name: assets/www/icon/3reyes/roboam.png
+SHA1-Digest: lmelaPOELMRtwU8S4Jj4KajpmPs=
+
+Name: assets/www/icon/diluvio/arfaxad.png
+SHA1-Digest: Mf/fR7bLiX3tNO0WDhSkb9GtWgQ=
+
+Name: assets/www/icon/genesis/set.png
+SHA1-Digest: KnwB7YDlrGfXRh+37vpIy+4VdQU=
+
+Name: assets/www/icon/herodiana/judea.png
+SHA1-Digest: fvM/cg0Y414fh5KA9SEkduD+hx0=
+
+Name: assets/www/img/babel/babel.jpg
+SHA1-Digest: 8ErHU41i/UnNk39ElNT0BIRYLBY=
+
+Name: assets/www/js/modernizr.js
+SHA1-Digest: TbJncE1+P7JInPlugoYqIkXNkxE=
+
+Name: assets/www/icon/flaviana/flavio.png
+SHA1-Digest: YHN2mor0ltXgDNjRDbrxy72w1Ec=
+
+Name: assets/www/icon/jueces/profetaisaias.png
+SHA1-Digest: ua4HgYWhwBL8dmbW0VSDYBFbZMc=
+
+Name: assets/www/img/reyesisrael.jpg
+SHA1-Digest: XNof8nNkQ/i6Op+yKFqiZ8/py60=
+
+Name: assets/www/icon/jueces/cautiveriodaniel.png
+SHA1-Digest: TPttrkiRlt+JfJb6bqVz0JtNM+g=
+
+Name: assets/www/js/index.js
+SHA1-Digest: qWUWzEgR1zqkZtj2YJBZhJRTQqk=
+
+Name: assets/www/icon/exodo/moises.png
+SHA1-Digest: JlVgmfiiRqAPYuhtkalH8Oou110=
+
+Name: assets/www/icon/herodiana/elgrande.png
+SHA1-Digest: fJkalk6rrzu2htqPUcnUbkWYAjk=
+
+Name: assets/www/reyesisrael.html
+SHA1-Digest: rE6j2BozQ0/nzmsqmo0vIuvmKGo=
+
+Name: assets/www/spec/helper.js
+SHA1-Digest: y5Tfxnsc7GA289HJFXCZED1R5eE=
+
+Name: assets/www/icon/70/templodedicado.png
+SHA1-Digest: At7PUu04C2bmpwwtzOCFz0XwtY0=
+
+Name: assets/www/icon/asmoneos/antigono.png
+SHA1-Digest: ZeeXGOoJI3x5L23b2Xepd/sqOr0=
+
+Name: assets/www/fonts/book-antiqua.ttf
+SHA1-Digest: N0R7LCrsLZIbu+zbKDPoA/RNvXo=
+
+Name: assets/www/icon/jueces/asa.png
+SHA1-Digest: RCRL3az6u2QW7M2w3WB/FgYW/q0=
+
+Name: assets/www/icon/3reyes/david.png
+SHA1-Digest: bTGxycMf0CRr/mTFnsg1KOiqnYc=
+
+Name: assets/www/icon/cesares/roma.png
+SHA1-Digest: tFHKl7Nr2wexX9e+Tjrym5qMUYU=
+
+Name: assets/www/icon/70/ester.png
+SHA1-Digest: W2EchV01x0/NFJPz0D9Jb6hE5/k=
+
+Name: assets/www/icon/abegipto/jacobmuere.png
+SHA1-Digest: 6cJwGrST4OGmNq5bwqaFuIGJBiQ=
+
+Name: assets/www/icon/jueces/ninive.png
+SHA1-Digest: PWyqlors/D4/uOp/7+fcpyjQ/Yw=
+
+Name: assets/www/img/cartelera/asmoneos.jpg
+SHA1-Digest: Sr+FtNERRN7wTIjLr7xgBv/S7nY=
+
+Name: assets/www/img/cartelera/griegos.jpg
+SHA1-Digest: GDOjB6NIW/hvzSpyOgJ99wMolZY=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: assets/www/icon/jueces/7.png
+SHA1-Digest: b/yIWvN9fmaKkwjks+N1xsd6q3A=
+
+Name: assets/www/icon/diluvio/sala.png
+SHA1-Digest: uJ7TmUQT0nbn2LBdfUpXk3FbErc=
+
+Name: assets/www/icon/babel/tare.png
+SHA1-Digest: jjQ+P2O4Ygs7IA4/Irn89tDLPV0=
+
+Name: assets/www/icon/70/matias.png
+SHA1-Digest: ln7szsQEZqviyCJnWUN85dfF9Go=
+
+Name: assets/www/icon/70/aristobulo.png
+SHA1-Digest: jEjqVt77YuowWRPNGFxDXGJ5Sqo=
+
+Name: assets/www/icon/jueces/abias.png
+SHA1-Digest: 2Twx++FGSW+parKI3G/5+ZQL23E=
+
+Name: assets/www/icon/diluvio/pactodiluvio.png
+SHA1-Digest: T69uo4V33pQq9iAVR9VdKq8YhkI=
+
+Name: assets/www/icon/asmoneos/antipater.png
+SHA1-Digest: 8Qmm/uMth5pk1yVx2YRTQfe0Ato=
+
+Name: assets/www/icon/jueces/31.png
+SHA1-Digest: e1HfEd7nMS4NCkGGCVPFfJDzi/g=
+
+Name: assets/www/img/g6.jpg
+SHA1-Digest: 06P1tKMcHe1Y3Zv2IrL8FwX+qfc=
+
+Name: assets/www/icon/genesis/adan.png
+SHA1-Digest: aprEvFqcPh+aclGv/cMN7Y4t/3o=
+
+Name: assets/www/icon/jueces/12.png
+SHA1-Digest: 9W4Y48jmd59pGDuuIBRBG42KAY4=
+
+Name: assets/www/icon/70/alejandro.png
+SHA1-Digest: Wqze7r7QnnXfKRZ94MqZZYd4UAw=
+
+Name: assets/www/icon/70/interpreta.png
+SHA1-Digest: OPdwXAwtF4mWMZMcPmz5nsIcAyY=
+
+Name: assets/www/icon/flaviana/flaviomuere.png
+SHA1-Digest: FN4ovQsEloZERmYCv97lgE3zcGU=
+
+Name: assets/www/js/bootstrap.min.js
+SHA1-Digest: bCZODgAmq17OSTUMaogSOY5pbLs=
+
+Name: assets/www/img/cartelera/diluvio.jpg
+SHA1-Digest: zXHRT8NPp+AVPuikOs2MAauPT68=
+
+Name: assets/www/icon/cesares/pompeyo.png
+SHA1-Digest: VcwFomjCwOtZydgRbPg4vKahB3s=
+
+Name: assets/www/icon/70/gaugamela.png
+SHA1-Digest: PzHNbA1ckihY6tnLfsY+KBPMFIQ=
+
+Name: assets/www/icon/flaviana/coliseo.png
+SHA1-Digest: zPsfNsy6MY+lIekx0iPafr/KdWg=
+
+Name: assets/www/icon/interrogacion.png
+SHA1-Digest: l3Vwk7LeZZ14mNooJolFwDJ1Q8k=
+
+Name: assets/www/icon/70/simonmuere.png
+SHA1-Digest: fXypFNTTuN8icL3VzLfLLERA8fY=
+
+Name: assets/www/icon/genesis/lamecmuere.png
+SHA1-Digest: X+PFTBXEqj3QdPeirHUkLQQjcTE=
+
